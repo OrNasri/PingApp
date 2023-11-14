@@ -5,7 +5,7 @@ PingApp-Client is a React-based web application that allows users to execute pin
 
 ## Prerequisites
 1. Node.js and npm installed
-2. PingApp-Server running (see [PingApp-Server README](../PingApp-Server/README.md))
+2. PingApp-Server running (see [PingApp-Server](https://github.com/OrNasri/PingApp-Server))
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/OrNasri/PingApp-Client.git`
